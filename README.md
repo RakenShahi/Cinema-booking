@@ -1,4 +1,4 @@
-![Picture1](https://user-images.githubusercontent.com/30067218/128339059-ed536358-fd93-42e0-a169-0e64fa130144.jpg)
+
 # Cinema Booking System
 This online Cinema ticket booking system is a web-based system where one can 
 book movie tickets in advance, know their movie showing time, watch movie trailers, and 
@@ -10,6 +10,9 @@ movies, their showing shifts, showing rates and others to the local people; onli
 people don’t need to visit cinema, stay in a queue and return home with a disappointment if 
 the hall is full and there are no seats. In addition to that, people should use this system to get 
 information regarding the movies, their showing shifts and advance booking of the tickets.
+
+# NOTE
+This is bachelor's project which is buit in fifth semester in 2017 AD
 
 # Tools Used
 PHP, MySQL, HTML, CSS, Bootstrap
