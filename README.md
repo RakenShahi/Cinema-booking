@@ -12,7 +12,7 @@ the hall is full and there are no seats. In addition to that, people should use 
 information regarding the movies, their showing shifts and advance booking of the tickets.
 
 # NOTE
-This is bachelor's project which is buit in fifth semester in 2017 AD
+This is bachelor's project which is buit in 5th semester in 2017 AD
 
 # Tools Used
 PHP, MySQL, HTML, CSS, Bootstrap
